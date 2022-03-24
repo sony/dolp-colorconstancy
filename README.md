@@ -9,8 +9,8 @@ Sony Group Corporation, Tokyo, Japan
 <br>
 
 \*Access to [data](https://sonyjpn.sharepoint.com/sites/S168-DOLPCC) requires a Microsoft account.
-After creating your Microsoft account, please contact [us](<mailto:Taishi.Ono@sony.com;Yuhi.Kondo@sony.com>) with the following information to grant access.
-*Microsoft account (Microsoft E-mail address),  Name, Organization*
+After creating your Microsoft account, please contact [us](<mailto:Taishi.Ono@sony.com;Yuhi.Kondo@sony.com>) with the following information to grant access:
+*Microsoft account (Microsoft E-mail address),  Name, and Organization*
 
 
 ## Introduction
