@@ -1,0 +1,15 @@
+{
+    "input_folder": "sample_images",
+    "valid_th": 0.005,
+    "w_dolp_a": 50.0,
+    "w_dolp_b": 0.15,
+    "w_dolp_ach_a": 50.0,
+    "w_dolp_ach_b": 0.08,
+    "w_aolp_ach_a": 50.0,
+    "w_aolp_ach_b": 1.0,
+    "w_dolp_ch_a": 50.0,
+    "w_dolp_ch_b": 0.2,
+    "w_aolp_ch_a": 50.0,
+    "w_aolp_ch_b": 10.0,
+    "alpha": 0.95
+}
