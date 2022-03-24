@@ -13,7 +13,7 @@ This paper proves that the degree of linear polarization (DoLP) dramatically sol
 The main idea is quite simple: **the DoLP values of achromatic pixels are also achromatic regardless of the illumination colors.**
 Additionally, we widely analyzed how to estimate illuminations from chromatic pixels and examined a solution for multi-illumination scenes.
 
-![macbeth](/uploads/ec970edd037189041fbecec9853bbe35/macbeth.gif)
+![macbeth](https://user-images.githubusercontent.com/102112779/159839982-21d98202-a7d0-40f9-85e6-81c16d47e7fc.gif)
 
 Raw-RGB(top) and DoLP(bottom).
 
