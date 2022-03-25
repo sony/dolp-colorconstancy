@@ -15,7 +15,11 @@ Additionally, we widely analyzed how to estimate illuminations from chromatic pi
 
 ![macbeth](https://user-images.githubusercontent.com/102112779/159839982-21d98202-a7d0-40f9-85e6-81c16d47e7fc.gif)
 
-Raw-RGB(top) and DoLP(bottom).
+Raw-RGB images (top) and their DoLP values of RGB (bottom). 
+
+DoLP of achromatic pixels are always achromatic regardless of the illumination colors.
+Achromatic patches located in the bottom rows have always achromatic
+DoLP values.
 
 ## Dependency
 We use the following version of libraries. Subtle version differences are acceptable.
