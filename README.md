@@ -4,7 +4,13 @@ Taishi Ono, Yuhi Kondo, Legong Sun, Teppei Kurita, and Yusuke Moriuchi
 Sony Group Corporation, Tokyo, Japan
 
 [paper](hogehogehoge) |
+[data\*](https://sonyjpn.sharepoint.com/sites/S168-DOLPCC)
 
+<br>
+
+\*Access to [data](https://sonyjpn.sharepoint.com/sites/S168-DOLPCC) requires a Microsoft account.
+After creating your Microsoft account, please contact [us](<mailto:Taishi.Ono@sony.com;Yuhi.Kondo@sony.com>) with your Microsoft E-mail address to grant access.
+The access right is revoked after a certain period of time , and your account information is not be retained.
 
 ## Introduction
 This repository is the implementation of "Degree-of-linear-polarization-based Color Constancy," presented in CVPR 2022.
