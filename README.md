@@ -3,7 +3,7 @@ Taishi Ono, Yuhi Kondo, Legong Sun, Teppei Kurita, and Yusuke Moriuchi
 
 Sony Group Corporation, Tokyo, Japan
 
-[paper](hogehogehoge) |
+[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ono_Degree-of-Linear-Polarization-Based_Color_Constancy_CVPR_2022_paper.html) |
 [data\*](https://sonyjpn.sharepoint.com/sites/S168-DOLPCC)
 
 <br>
