@@ -105,6 +105,6 @@ This software is released under the MIT License. See [LICENSE](/LICENSE) for det
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     month     = {June},
     year      = {2022},
-    pages     = {xxxxx-xxxxx}
+    pages     = {19740-19749}
 }
 ```
